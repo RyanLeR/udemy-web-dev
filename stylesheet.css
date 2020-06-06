@@ -1,0 +1,175 @@
+body {background-color: #DCDCDC;
+  }
+
+
+.profile-pic {
+  margin-top: 50px;
+  height:200px;
+  width: 200px;
+}
+
+
+.main-content-area-container {
+  display: flex;
+  align-content: center;
+  text-align: center;
+  width: 100vw;
+  justify-content: center;
+  background-color: #DCDCDC;
+}
+
+
+.main-content-area-container .inner-container {
+  width: 80vw;
+  height: 1600px;
+  margin: 50px;
+  justify-content: center;
+  background: #FFFFFF;
+  -webkit-box-shadow: 0 0 10px rgb(0,0,0);
+  -moz-box-shadow: 0 0 10px rgb(0,0,0);
+}
+
+.title-table-container {
+  justify-content: center;
+}
+
+.title-table {
+  display: inline-block;
+}
+
+.skills-title {
+  margin-top: 60px;
+}
+
+.skills-list {text-align: center;
+              display: inline-block;
+            margin-top: 30px;
+          font-family: arial;
+}
+
+.skills-list-title {
+                margin-bottom: 30px;
+                margin-top: 30px;
+                font-family: arial;
+              }
+
+.skills-table-container {
+  justify-content: center;
+}
+
+.skills-table {
+  display: inline-block;
+}
+
+h1 {font-family: 'Permanent Marker', cursive;
+}
+
+.title-table {
+  cell-spacing: 20px;
+}
+
+.hobbies-title {
+  margin-top: 60px;
+}
+
+.hobbies-list p {text-align: center;
+              display: inline-block;
+            margin-top: 30px;
+          font-family: arial;
+}
+
+.hobbies-list-title p {
+                margin-bottom: 30px;
+                margin-top: 30px;
+                font-family: arial;
+              }
+
+.hobbies-list-title {
+  margin-bottom: 30px;
+}
+
+
+h1 {font-family: 'Permanent Marker', cursive;
+}
+
+
+p {font-family: arial !important;
+  margin: 0px;
+}
+
+.user-title {font-family: 'Montserrat', sans-serif;}
+
+a:link {
+  text-decoration: none;
+  font-style: bold;
+  font-weight:bold heavy;
+  color: #54abf7;
+
+}
+
+
+a:hover {
+  color: #faa352;
+}
+
+
+.go-home {
+  margin-top: 30px;
+}
+
+.about-container {
+  justify-content: center;
+  text-align: center;
+  display:block;
+  border: none;
+}
+
+.about-content {
+  display: inline-block;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  justify-content: center;
+  width: 500px;
+}
+
+
+.about-me-home {
+  margin-top: 20px;
+}
+
+.about-me-hl {
+  color: #54abf7;
+}
+
+.about-go-home {
+  margin-top: 20px;
+}
+
+.xp-table-container {
+  justify-content: center;
+  text-align: center;
+  display:block;
+  border: none;
+}
+
+.xp-table {
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  justify-content: center;
+  width: 500px;
+}
+
+
+
+.contact-me-container {
+  justify-content: center;
+}
+
+.contact-form {
+  margin-top: 20px;
+}
